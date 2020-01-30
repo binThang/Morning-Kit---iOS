@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>593D71B6-6331-42EA-A95A-2327D42BE219</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Morning Kit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E170CB10-81EA-44DC-8355-A68EB307AA30</key>
+		<string>http://yooiistudios.iptime.org/svn/trunk/Morning%20Kit_v020_2013_</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MK_v100_2013_/Morning Kit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E170CB10-81EA-44DC-8355-A68EB307AA30</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E170CB10-81EA-44DC-8355-A68EB307AA30</key>
+		<string>http://yooiistudios.iptime.org/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://yooiistudios.iptime.org/svn/trunk/Morning%20Kit_v020_2013_/Morning%20Kit.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E170CB10-81EA-44DC-8355-A68EB307AA30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E170CB10-81EA-44DC-8355-A68EB307AA30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>v073_2013_0814</string>
+		</dict>
+	</array>
+</dict>
+</plist>
